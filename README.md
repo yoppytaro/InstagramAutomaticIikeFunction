@@ -6,7 +6,7 @@
  
 フォローしているアカウントの投稿に自動でいいねしていきます。
  
-![](https://user-images.githubusercontent.com/58821058/106829809-3a2a1800-66d0-11eb-9e25-30385512f0a9.gif)
+![](https://user-images.githubusercontent.com/58821058/106834884-96456a00-66d9-11eb-9031-add7f1a59983.gif)
 
 # 使用方法
 
