@@ -31,7 +31,7 @@ https://docs.google.com/spreadsheets/d/1VEhYHjI2Yr8edPn5Brc6Ssu4KlB2jKXViL1P3DFK
 7. 51行目にjsonファイル名を設定します。
 8. シート名「アカウント情報」のB2には、ユーザー名、C2には、パスワード、D2には、一日のマックスのいいね数を記入してください。
 
-#エラー処理
+# エラー処理
 
 chateorkにメッセージを送信するタイミング
 
