@@ -6,7 +6,7 @@
  
 フォローしているアカウントの投稿に自動でいいねしていきます。
  
-<img src="https://user-images.githubusercontent.com/58821058/106837491-ede5d480-66dd-11eb-9ced-cf399ad54a41.gif" width="400px">
+<img src="https://user-images.githubusercontent.com/58821058/106837491-ede5d480-66dd-11eb-9ced-cf399ad54a41.gif" width="600px">
 
 
 # 使用方法
